@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: BaseDT
+Version: 0.1.3
+Summary: BaseDT is a data-processing  tool including data, dataset, io and plot.
+Home-page: https://github.com/OpenXLab-Edu/OpenMMLab-Edu
+Author: OpenXLab
+Author-email: wangbolun@pjlab.org.cn
+License: MIT License
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+UNKNOWN
+

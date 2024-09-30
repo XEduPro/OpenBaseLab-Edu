@@ -1,21 +1,14 @@
-from .CART import CART
-from .KNNClassifier import KNN
-from .PCA import PCA
-from .Perceptron import Perceptron
-from .AdaBoost import AdaBoost
-from .GaussianNB import GaussianNB
-from .SVM import SVM
-from .Classification import cls
-from .Regression import reg
+from .base import baseml
+from .BaseClassification import Classification
+from .BaseRegression import Regression
+from .BaseCluster import Cluster
+from .BaseDimentionReduction import DimentionReduction
 
 
 __all__ = [
-    'CART',
-    'SVM',
-    'AdaBoost',
-    'GaussianNB',
-    'KNN',
-    'PCA',
-    'Perceptron',
-    'cls',
-    'reg']
+    'baseml',
+    'Classification',
+    'Regression',
+    'Cluster',
+    'DimentionReduction',
+    ]

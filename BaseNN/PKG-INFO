@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: BaseNN
+Version: 0.3.1
+Summary: BaseNN can easily build neural networks layer by layer and deeply explore the neural network principle.
+Home-page: https://github.com/OpenXLab-Edu/OpenMMLab-Edu
+Author: OpenXLab
+Author-email: wangbolun@pjlab.org.cn
+License: MIT License
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+UNKNOWN
+

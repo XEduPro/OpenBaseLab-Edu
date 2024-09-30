@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: BaseDeploy
+Version: 0.0.4
+Summary: BaseDeploy is a simple deployment tool made by XEdu.
+Home-page: https://github.com/OpenXLab-Edu/OpenMMLab-Edu
+Author: OpenXLab
+Author-email: wangbolun@pjlab.org.cn
+License: MIT License
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+UNKNOWN
+

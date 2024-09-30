@@ -1,0 +1,13 @@
+MANIFEST.in
+install_requires.txt
+setup.py
+BaseDeploy/BaseDeploy.py
+BaseDeploy/__init__.py
+BaseDeploy/version.py
+BaseDeploy.egg-info/PKG-INFO
+BaseDeploy.egg-info/SOURCES.txt
+BaseDeploy.egg-info/dependency_links.txt
+BaseDeploy.egg-info/entry_points.txt
+BaseDeploy.egg-info/requires.txt
+BaseDeploy.egg-info/top_level.txt
+BaseDeploy.egg-info/zip-safe
