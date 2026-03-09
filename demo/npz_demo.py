@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """NPZ 数据集制作示例：视频或 CSV 转成 NPZ（供 RNN/序列分类用）。"""
 
-from XEdu.hub.BaseDT import npz
+from BaseDT import npz
 
 # 方式一：视频目录 → NPZ（目录结构：类别名/视频文件，如 video/挥手/*.mp4, video/走路/*.mp4）
 npz.make_npz_dataset('./video', 'dataset_video.npz', data_type='video', sequence_length=30)
